@@ -10,7 +10,7 @@
 </p>
 
 
-<picture> <img align="right" src="https://i.pinimg.com/564x/94/17/0e/94170e56cd23ae6d02f8025d51aa2021.jpg" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/564x/1a/1f/31/1a1f318e81dd27975d8b83011247f00b.jpg" width = 250px></picture>
 
 
   
@@ -75,31 +75,10 @@
 <br>
 
 
- <div>
-            <h3 align="center"> 🥰 Connect with me:</h3>
-            <p align="center">
-                <a href="https://discord.com/channels/@me/835488546897920021">
-                     <img src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
-                        alt="connect discord">
-                </a>
-            </p>
-            <p align="center">
-                ❤️
-                <a href="https://www.facebook.com/profile.php?id=100016824016369" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                        alt="lê bá thắng" height="30" width="40" /></a>
-                <a href="https://twitter.com/Thang_pr0vjp123" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                        alt="provjp" height="30" width="40" /></a>
-                <a href="https://www.instagram.com/lebathang10a6/" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                        alt="lebathang" height="30" width="40" /></a>
-                <a href="https://medium.com/@lebathang" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-                        alt="@lebathang7b" height="30" width="40" /></a>
-                <a href="https://stackoverflow.com/users/19120952" target="blank"><img align="center"
-                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                        alt="user:19120952" height="30" width="40" /></a>
-                ❤️
-            </p>
-        </div>
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="salome_isback" height="30" width="40" /></a>
+<a href="https://www.facebook.com/salome.arboleda.37/?locale=es_LA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dvvsalom3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
